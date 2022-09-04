@@ -5,7 +5,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <CodeAnalysisRuleSet>Settings.ruleset.txt</CodeAnalysisRuleSet>
+    <CodeAnalysisRuleSet>settings.ruleset.txt</CodeAnalysisRuleSet>
   </PropertyGroup>
 
   <ItemGroup>
